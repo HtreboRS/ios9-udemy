@@ -22,6 +22,7 @@
 		5B1E1AEC1DFA09290072626E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5B1E1AEF1DFA09290072626E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5B1E1AF11DFA09290072626E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5B5785091E031D270017A54D /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 				5B1E1AE51DFA09290072626E /* AppDelegate.swift */,
 				5B1E1AE71DFA09290072626E /* ViewController.swift */,
 				5B1E1AE91DFA09290072626E /* Main.storyboard */,
+				5B5785091E031D270017A54D /* MyPlayground.playground */,
 				5B1E1AEC1DFA09290072626E /* Assets.xcassets */,
 				5B1E1AEE1DFA09290072626E /* LaunchScreen.storyboard */,
 				5B1E1AF11DFA09290072626E /* Info.plist */,
@@ -297,6 +299,7 @@
 				5B1E1AF61DFA09290072626E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
